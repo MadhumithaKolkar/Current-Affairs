@@ -15,9 +15,10 @@ This repository contains the source code, circuit diagrams, and step-by-step Ins
 
 ## 🚀 Projects
 
-| Project               | Description                     | Guide |
-| --------------------- | ------------------------------- | ----- |
-| *(More coming soon!)* | Stay tuned for upcoming builds. | -     |
+| Project               | Description                     |        Guide         |
+| --------------------- | ------------------------------- | -------------------- |
+| Chrome Dino Run       | The classic Dino game on a Nano |         -            |
+| Silent Voice          | Sign Language Glove             |     Instructables    |
 
 ## 🧰 Tech Stack
 
