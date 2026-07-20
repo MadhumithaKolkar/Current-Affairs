@@ -4,6 +4,9 @@ Recreate the iconic Google Chrome Dino Game on an **Arduino Nano** using a **0.9
 
 ---
 
+<img width="813" height="896" alt="image" src="https://github.com/user-attachments/assets/a412f25c-0576-4852-9b74-0707485b4a21" />
+
+
 ## 🎮 Features
 
 - Classic Chrome Dino gameplay
