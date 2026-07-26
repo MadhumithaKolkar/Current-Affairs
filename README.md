@@ -18,6 +18,7 @@ This repository contains the source code, circuit diagrams, and step-by-step Ins
 | Project               | Description                     |        Guide         |
 | --------------------- | ------------------------------- | -------------------- |
 | Chrome Dino Run       | The classic Dino game on a Nano |         -            |
+| Dracula OLED Song     | Lyric-synced animated song visualizer on an OLED display | [Guide](Arduino_Nano_Projects/Dracula_Nano_OLED/Readme.md) |
 | Silent Voice          | Sign Language Glove             |     Instructables    |
 
 ## 🧰 Tech Stack
