@@ -4,6 +4,12 @@ An Arduino Nano project that plays out the lyrics of "Dracula" on a **0.96" SSD1
 
 ---
 
+## 📺 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/syzg_v7sfk4/0.jpg)](https://youtube.com/shorts/syzg_v7sfk4?si=WfKQ_iScSKbiA3_C)
+
+---
+
 ## 🎮 Features
 
 - Lyric-timed word display driven by a PROGMEM lyric table (delay, duration, effect, size per word)
